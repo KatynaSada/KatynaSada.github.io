@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
+name: Katyna Sada
 tools: [nothing, important]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: MI proyectooo 1 
 external_url: https://www.google.com
 ---

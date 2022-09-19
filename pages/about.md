@@ -21,6 +21,7 @@ Upon finishing my degree in biomedical engineering, I decided to enter the world
 {% include about/timeline.html %}
 </div>
 
+# **CV**
 <p align="center">
 <iframe
 src="https://github.com/KatynaSada/KatynaSada.github.io/blob/master/_elements/cv_research.pdf"

@@ -22,9 +22,4 @@ Upon finishing my degree in biomedical engineering, I decided to enter the world
 </div>
 
 # **CV**
-<p align="center">
-<iframe
-src="https://github.com/KatynaSada/KatynaSada.github.io/blob/master/_elements/cv_research.pdf"
-width="800px"
-height="600px"
-style="border: 1;" /> </p>
+<object data="../_elements/cv_research.pdf" width="800" height="600" type='application/pdf'></object>

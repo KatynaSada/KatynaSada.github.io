@@ -2,7 +2,7 @@
 name: Predicting Breast Cancer Survival
 tools: [R]
 image:
-description:
+description: 
 ---
 # Predicting Breast Cancer Survival
 Coming soon...

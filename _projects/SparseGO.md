@@ -1,7 +1,7 @@
 ---
 name: SparseGO
-tools: [Python] [PyTorch]
-image: 
+tools: [Python,PyTorch]
+image:
 description:
 ---
 # SparseGO

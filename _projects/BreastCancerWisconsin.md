@@ -1,7 +1,7 @@
 ---
 name: Breast Cancer Wisconsin
 tools: [R]
-image: KatynaSada.github.io/_elements/breast.jpg
+image: https://storage.googleapis.com/kaggle-datasets-images/180/384/3da2510581f9d3b902307ff8d06fe327/dataset-card.jpg
 description: The goal of this project was to develop an algorithm that correctly predicts whether a breast cancer cell sample is benign or malignant using Kaggle's Breast Cancer Wisconsin dataset.
 ---
 # Breast Cancer Wisconsin
@@ -9,7 +9,7 @@ The goal of this project was to develop an algorithm that correctly predicts whe
 
 {% include elements/button.html link="https://katynasada.github.io/BreastCancerWisconsin/" text="View project's markdown!" %}
 
-Data set: [kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+Dat set: [kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 <!---
 # The Movies Project

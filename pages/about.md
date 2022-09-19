@@ -20,3 +20,10 @@ Upon finishing my degree in biomedical engineering, I decided to enter the world
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+<p align="center"><iframe
+src="KatynaSada.github.io/_elements/cv_research.pdf"
+width="800px"
+height="600px"
+style="border: 1;" />
+</iframe></p>

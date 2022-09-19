@@ -1,9 +1,15 @@
 ---
-name: Coming Soon
+name: Breast Cancer Wisconsin
 tools: [R]
 image:
-description: ...
+description: The goal of this project was to develop an algorithm that correctly predicts whether a breast cancer cell sample is benign or malignant using Kaggle's Breast Cancer Wisconsin dataset. For this purpose, several machine learning algorithms were compared taking into account their accuracy and execution time.
 ---
+# Breast Cancer Wisconsin
+
+<p class="text-center">
+{% include elements/button.html link="https://katynasada.github.io/BreastCancerWisconsin/" text="View project's markdown!" %}
+</p>
+
 <!---
 # The Movies Project
 

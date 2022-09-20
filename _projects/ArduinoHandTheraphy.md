@@ -9,6 +9,8 @@ The objective of this project was to provide a friendly neurorehabilitation syst
 
 {% include elements/button.html link="https://github.com/KatynaSada/ArduinoHandTheraphy" text="View project's code!" %}
 
+<iframe src="https://drive.google.com/file/d/1Gjs0Hw0nSQjRMAuPZSjCYaT7FxWrcDg8/preview" width="440" height="280" allow="autoplay"></iframe>
+
 Course: [Design of Biomedical Embedded Systems](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program)
 
 # Project's description and user manual

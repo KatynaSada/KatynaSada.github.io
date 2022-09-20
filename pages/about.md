@@ -22,4 +22,4 @@ Upon finishing my degree in biomedical engineering, I decided to enter the world
 </div>
 
 # **CV**
-<embed src="https://github.com/KatynaSada/KatynaSada.github.io/blob/master/_elements/cv_research.pdf" type="application/pdf" />
+<iframe src="https://drive.google.com/file/d/1qVrFwcEvyBjOVwTH3HvoLXTCBKgqA3LH/preview" width="640" height="480" allow="autoplay"></iframe>

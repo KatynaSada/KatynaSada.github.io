@@ -11,7 +11,7 @@ The goal of this project was to develop an algorithm that correctly predicts whe
 
 Dat set: [kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-Course: [Machine Learning for Biomedical Data](https://aula-virtual.unav.edu/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_2016917_1&course_id=_34633_1)
+Course: [Machine Learning for Biomedical Data](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program
 
 <!---
 # The Movies Project

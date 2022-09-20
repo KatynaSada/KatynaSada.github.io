@@ -9,4 +9,4 @@ The objective of this project was to compare sequence data variants between tumo
 
 {% include elements/button.html link="https://katynasada.github.io/DNA-seq-Pipeline/" text="View project's markdown!" %}
 
-Course: [Bioinformatics and Next Generation Sequencing](https://aula-virtual.unav.edu/webapps/blackboard/content/listContent.jsp?course_id=_32638_1&content_id=_1908841_1)
+Course: [Bioinformatics and Next Generation Sequencing](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program)

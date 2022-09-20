@@ -1,7 +1,15 @@
-# - name: Adobe Photoshop
-#   percentage: 95
-#   color: info
-#
-# - name: Adobe Illustrator
-#   percentage: 90
-#   color: success
+- name: Microsoft Word, PowerPoint, Excel
+  percentage: 100
+  color: info
+
+- name: CST Studio
+  percentage: 70
+  color: success
+
+- name: Adobe Premiere Pro
+  percentage: 60
+  color: success
+
+- name: iMovie
+  percentage: 100
+  color: success

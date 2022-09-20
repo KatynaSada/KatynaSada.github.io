@@ -1,15 +1,15 @@
 - name: Microsoft Word, PowerPoint, Excel
   percentage: 100
-  color: info
+  color: danger
 
 - name: CST Studio
   percentage: 70
-  color: success
+  color: secondary
 
 - name: Adobe Premiere Pro
   percentage: 60
-  color: success
+  color: sucess
 
 - name: iMovie
   percentage: 100
-  color: success
+  color: primary

@@ -1,7 +1,7 @@
 ---
 name: Arduino Hand Theraphy
 tools: [Processing, Arduino(C/C++)]
-image: https://drive.google.com/file/d/1Gjs0Hw0nSQjRMAuPZSjCYaT7FxWrcDg8
+image: https://i.ytimg.com/vi/RbB8NSRa5X4/hqdefault.jpg
 description: Arduino-based user-friendly neurorehabilitation system for patients with hand dysfunction.
 ---
 # Arduino Hand Theraphy

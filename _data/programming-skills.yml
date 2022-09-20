@@ -1,6 +1,6 @@
 - name: Python
   percentage: 80
-  color: primary
+  color: info
 
 - name: R
   percentage: 99
@@ -8,7 +8,7 @@
 
 - name: Java
   percentage: 85
-  color: secondary 
+  color: secondary
 
 - name: Matlab
   percentage: 90

@@ -23,7 +23,8 @@ encountered have the potential of being possible routes for new cancer treatment
 
 {% include elements/button.html link="https://github.com/KatynaSada/DeterminingBiologicalRelevanceGMCSs" text="View project's code!" %}
 
-Advisor: Iñigo Apaolaza
+**Date**: January-September 2020
+**Advisor**: Iñigo Apaolaza
 Based on: [An in-silico approach to predict and exploit synthetic lethality in cancer metabolism](https://www.nature.com/articles/s41467-017-00555-y)
 
 # Project...

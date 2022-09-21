@@ -1,12 +1,13 @@
 ---
 name: HPC assignment
-tools: [Processing, Arduino(C/C++)]
+tools: [AWK, bash]
 image:
 description: Parallel approach for RNA-Seq pipeline to analyze samples of Bladder Cancer
 ---
 # Parallel approach for RNA-Seq pipeline
 
 Course: [High Performance Computing](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program)
+**Date**: 05/05/2021
 
 #### Proposed problem...
 Dear Tecnun HPC consultants,
@@ -14,14 +15,14 @@ My name is Geoff Bennet and I am a researcher from the University of Dublin. Ove
 We are currently running a complete RNA-Seq pipeline to analyze samples of Bladder Cancer. The samples are available for download via SRA (BioProject PRJNA186504). We have already selected the samples that we are interested in analyzing.
 
 Our pipeline consists of the following steps:
-1) Download all the samples using the SRA Toolkit
-2) Running quality controls on the .fastq files with the fastqc algorithm
-3) Count the reads in each .fastq file (awk)
-4) Align the reads to the human genome (hg38)
+1. Download all the samples using the SRA Toolkit
+2. Running quality controls on the .fastq files with the fastqc algorithm
+3. Count the reads in each .fastq file (awk)
+4. Align the reads to the human genome (hg38)
   - Using STAR
-5) Quantify genes by creating a count table
+5. Quantify genes by creating a count table
   - Using htseq (Python dependency)
-6) Quantify transcripts using Kallisto
+6. Quantify transcripts using Kallisto
 
 In order to run this pipeline, we have different alternatives regarding computational power:
 1. A local computer server (Storm)
@@ -36,6 +37,7 @@ Is it possible to run some of the steps using a parallel approach? Our current p
 
 #### Project's presentation
 <iframe src="https://drive.google.com/file/d/1Gn_kU6Uy8M4Mzd0aKzgs_GQfpQ_ZhJEq/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 #### Code
 ```bash
@@ -295,3 +297,4 @@ cd /home/ingbio/Data/HPC/Software
 #####			 --useVBOpt \
 #####			 --validateMappings
 ```
+**Authors**: Katyna Sada, Cristina Tobias, Teresa Pardo, Tomás Muñoz, Joseba Sancho 

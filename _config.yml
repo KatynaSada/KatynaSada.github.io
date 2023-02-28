@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Katyna Sada Del Real 
+title               : Katyna Sada Del Real
 description         : >-
                       Currently developing algorithms to improve people's quality of life.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -15,7 +15,6 @@ plugins:
 
 ### Navbar Settings ###
 nav_exclude:
-  - pages/blog.html                                        # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
   - pages/index.md

@@ -6,4 +6,4 @@ description:
 ---
 # SparseGO
 
-<iframe src="https://github.com/KatynaSada/SparseGO" width="100%" height="500px"></iframe>
+{% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View project's code!" %}

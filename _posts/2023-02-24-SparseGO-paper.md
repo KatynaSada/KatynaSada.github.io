@@ -2,7 +2,7 @@
 title: Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network
 tags: [XAI, Deep Learning,Drug Response Prediction, MoA]
 style: fill
-color: secondary
+color: primary 
 comments: true
 description: SparseGO is a novel, effective XAI method for predicting, but more importantly, understanding drug response.
 ---

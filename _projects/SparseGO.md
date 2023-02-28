@@ -5,5 +5,5 @@ image:
 description:
 ---
 # SparseGO
-Currently a private project.
-Coming soon...
+
+<iframe src="https://github.com/KatynaSada/SparseGO" width="100%" height="500px"></iframe>

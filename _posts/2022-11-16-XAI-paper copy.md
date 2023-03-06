@@ -1,16 +1,15 @@
-title: Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network
-tags: [XAI, Deep Learning,Drug Response Prediction, MoA]
+---
+title: Precision Oncology: a review to assess interpretability in several explainable methods 
+tags: [Interpretability, XAI, Machine Learning,Drug Response Prediction]
 style: fill
-color: primary 
+color: secondary 
 comments: true
-description: SparseGO is a novel, effective XAI method for predicting, but more importantly, understanding drug response.
+description: 
 ---
 
-The article "Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network" is currently under review, but a preprint is available in THE LANCET.
-<iframe src="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364890" width="100%" height="500px"></iframe>
+The article "Precision Oncology: a review to assess interpretability in several explainable methods" is currently under review.
 
-{% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View code" %}
-
+{% include elements/button.html link="https://gitlab.com/mgimenoc/interpretable-ai-review" text="View code" %}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

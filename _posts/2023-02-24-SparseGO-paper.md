@@ -1,3 +1,4 @@
+---
 title: Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network
 tags: [XAI, Deep Learning,Drug Response Prediction, MoA]
 style: fill

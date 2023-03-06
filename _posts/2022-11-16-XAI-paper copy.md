@@ -4,7 +4,7 @@ tags: [Interpretability, XAI, Machine Learning,Drug Response Prediction]
 style: fill
 color: secondary 
 comments: true
-description: 
+description: Comparison of different machine learning methods by evaluating interpretability of these methods. 
 ---
 
 The article "Precision Oncology: a review to assess interpretability in several explainable methods" is currently under review.

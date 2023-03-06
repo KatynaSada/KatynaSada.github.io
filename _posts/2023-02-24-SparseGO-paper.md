@@ -12,7 +12,6 @@ The article "Discovering the Mechanism of Action of Drugs with a Novel Sparse Ex
 
 {% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View code" %}
 
-
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>

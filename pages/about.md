@@ -22,4 +22,4 @@ Upon finishing my degree in biomedical engineering, I decided to enter the world
 </div>
 
 # **CV**
-<iframe src="https://drive.google.com/file/d/1LZrwEs4LkSxim-tP_zjoOCR6cL-cB2Nr/view" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="hhttps://drive.google.com/file/d/1LZrwEs4LkSxim-tP_zjoOCR6cL-cB2Nr/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>

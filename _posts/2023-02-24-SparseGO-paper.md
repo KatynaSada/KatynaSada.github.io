@@ -7,9 +7,9 @@ comments: true
 description: SparseGO is an effective XAI method for predicting, but more importantly, understanding drug response.
 ---
 
-<iframe src="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4364890" width="100%" height="500px"></iframe>
+<iframe src="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00333-X/fulltext#secsectitle0040" width="100%" height="500px"></iframe>
 
-{% include elements/button.html link="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00333-X/fulltext#secsectitle0040" text="View code" %}
+{% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View code" %}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

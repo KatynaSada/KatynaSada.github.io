@@ -9,6 +9,33 @@ description: SparseGO is an effective XAI method for predicting, but more import
 
 <iframe src="https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00333-X/fulltext" width="100%" height="500px"></iframe>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>External Content</title>
+</head>
+<body>
+    <div id="external-content"></div>
+
+    <script>
+        // Fetch and render the external content
+        fetch('https://academic.oup.com/bib/article/24/4/bbad200/7186396')
+            .then(response => response.text())
+            .then(data => {
+                // Create a div to hold the content
+                const container = document.getElementById('external-content');
+                container.innerHTML = data;
+            })
+            .catch(error => {
+                console.error('Error fetching external content:', error);
+            });
+    </script>
+</body>
+</html>
+
+
 {% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View code" %}
 
 {% if page.comments %}

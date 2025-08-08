@@ -1,15 +1,3 @@
-- name: PyTorch
-  percentage: 85
-  color: danger
-
-- name: PyTorch Lightning
-  percentage: 75
-  color: info
-
-- name: TensorFlow
-  percentage: 70
-  color: secondary
-
 - name: SQL
   percentage: 75
   color: info
@@ -22,29 +10,13 @@
   percentage: 70
   color: secondary
 
-- name: Transformers / LLMs
-  percentage: 75
-  color: danger
-
-- name: CNNs
-  percentage: 80
+- name: Linux (Ubuntu)
+  percentage: 85
   color: info
-
-- name: Autoencoders
-  percentage: 75
-  color: secondary
-
-- name: Explainable AI (XAI)
-  percentage: 80
-  color: success
 
 - name: SLURM
   percentage: 70
   color: secondary
-
-- name: Linux (Ubuntu)
-  percentage: 85
-  color: info
 
 - name: AWS
   percentage: 60

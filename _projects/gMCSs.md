@@ -29,4 +29,4 @@ encountered have the potential of being possible routes for new cancer treatment
 Based on: [An in-silico approach to predict and exploit synthetic lethality in cancer metabolism](https://www.nature.com/articles/s41467-017-00555-y)
 
 # Project...
-<iframe src="https://drive.google.com/file/d/1GnF9-23vZxU9VUjj402ellAGAEIqNFQQ/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1GnF9-23vZxU9VUjj402ellAGAEIqNFQQ/preview" width="640" height="480" allow="aut

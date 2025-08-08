@@ -7,6 +7,4 @@ date: 2023-08-24
 ---
 # SparseGO
 
-SparseGO explores sparsity-aware neural architectures informed by Gene Ontology to improve interpretability and performance on biomolecular prediction tasks.
-
-{% include elements/button.html link="https://github.com/KatynaSada/SparseGO" text="View project's code!" %}
+SparseGO e

@@ -8,7 +8,7 @@
 
 - name: Adobe Premiere Pro
   percentage: 60
-  color: sucess
+  color: success
 
 - name: iMovie
   percentage: 100

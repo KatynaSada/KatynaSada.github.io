@@ -1,11 +1,11 @@
 ---
-name: Arduino Hand Theraphy
-tools: [Processing, Arduino(C/C++)]
+name: Arduino Hand Therapy
+tools: [Processing, Arduino (C/C++)]
 image: /assets/arduino.jpg
 description: Arduino-based user-friendly neurorehabilitation system for patients with hand dysfunction.
 ---
-# Arduino Hand Theraphy
-The objective of this project was to provide a friendly neurorehabilitation system for patients with hand dysfunction. In this project the rehabilitation of the hand is achieved through repetition of movements, with the help of a game so that the patient can perform the exercises in a more bearable way. Constant stimulation helps the brain to create and retain the new neural pathways it is building.
+# Arduino Hand Therapy
+This project delivers a friendly neurorehabilitation system for patients with hand dysfunction. Rehabilitation is supported through repetition of targeted movements using a simple game to keep patients engaged. Consistent stimulation helps the brain create and strengthen new neural pathways.
 
 {% include elements/button.html link="https://github.com/KatynaSada/ArduinoHandTheraphy" text="View project's code!" %}
 

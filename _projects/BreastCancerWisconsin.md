@@ -9,7 +9,7 @@ The goal of this project was to develop an algorithm that correctly predicts whe
 
 {% include elements/button.html link="https://katynasada.github.io/BreastCancerWisconsin/" text="View project's markdown!" %}
 
-Dat set: [kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+Dataset: [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 Course: [Machine Learning for Biomedical Data](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program)
 

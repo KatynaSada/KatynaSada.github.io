@@ -3,7 +3,7 @@ name: Urinary Biomarkers
 tools: [Python]
 image: /assets/pdac.jpg
 description: Simple Python tutorial to validate a biomarker panel for earlier detection of PDAC in urine.
-
+date: 2020-11-01
 ---
 # Urinary Biomarkers
 The objective of this project was to validate a biomarker panel for earlier detection of Pancreatic ductal adenocarcinoma in urine using Python.

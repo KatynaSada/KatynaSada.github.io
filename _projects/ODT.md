@@ -3,6 +3,7 @@ name: Optimal Decision Trees (ODT)
 tools: [R]
 image:
 description: R package implementing an optimization-based decision tree for personalized treatment recommendations.
+date: 2021-06-01
 ---
 # Optimal Decision Trees (ODT)
 

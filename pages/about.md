@@ -24,6 +24,4 @@ Previously, after completing a BSE in Biomedical Engineering, I pursued an MSc i
 
 # **CV**
 <p>
-  You can view my latest CV below. If the embedded preview doesn't load, <a href="/assets/cv.pdf" target="_blank" rel="noopener">open it directly</a>.
-</p>
-<iframe src="/assets/cv.pdf" width="640" height="480"></iframe>
+  You can view my latest CV below. If the embedded preview doesn't load, <a href="/as

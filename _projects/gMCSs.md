@@ -3,6 +3,7 @@ name: Approaches for determining the biological relevance of in-silico computed 
 tools: [R]
 image: /assets/gmcs.png
 description: Exploring the gMCSs tool...
+date: 2020-09-01
 ---
 # Approaches for determining the biological relevance of in-silico computed genetic Minimal Cut Sets (gMCSs) in cancer.
 There is a need to stop the rise of cancer new cases and cancer deaths. Currently scientific

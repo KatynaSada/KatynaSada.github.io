@@ -1,7 +1,12 @@
-- title: Visiting PhD student, Columbia University Irving Medical Center - Rabadan Lab
-  from: 2023
+- title: AI Engineer, Allclaims Pro
+  from: 2024
   to: present
-  description:
+  description: Building production-grade AI microservices (privacy-safe summary).
+
+- title: Visiting PhD Student, Columbia University Irving Medical Center – Rabadan Lab
+  from: 2023
+  to: 2024
+  description: Research in AI for cancer and computational biology.
 
 - title: PhD in Artificial Intelligence for Cancer Research, Tecnun Universidad de Navarra
   from: 2021
@@ -16,4 +21,4 @@
 - title: BSE in Biomedical Engineering, Tecnun Universidad de Navarra
   from: 2016
   to: 2020
-  description: 
+  description:

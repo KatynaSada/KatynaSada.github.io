@@ -1,16 +1,21 @@
 ---
 name: Allclaims Pro – AI Microservices Platform
-tools: [Python, FastAPI, Docker]
+tools: [Python, FastAPI, Docker, GitHub Actions, Prometheus]
 image:
-description: Privacy-safe overview of my work at Allclaims Pro building production-grade AI microservices.
+description: Building and operating production-grade AI microservices for claims intelligence.
+date: 2025-07-01
 ---
 # Allclaims Pro – AI Microservices Platform
 
-Note: This page provides a high-level, privacy-safe overview.
+I contribute to a production system of AI-powered microservices that assist claims intelligence workflows.
 
-- Designed and implemented microservices that power AI-assisted claims intelligence.
-- Contributed to backend APIs, data processing pipelines, and model serving workflows.
-- Focused on reliability, observability, and performance in production environments.
-- Collaborated cross-functionally to translate business needs into robust technical solutions.
+Highlights
+- Designed, implemented, and maintained backend APIs and data processing services using FastAPI and Python.
+- Built model-serving endpoints with containerized deployments and automated CI/CD.
+- Prioritized reliability and performance with structured logging, metrics, and alerting.
+- Collaborated with product and domain teams to scope features and translate requirements into robust implementations.
 
-Responsibilities included requirements clarification, iterative prototyping, code reviews, containerization, and documentation.
+Impact
+- Reduced service latency through targeted profiling and optimization.
+- Improved observability with actionable dashboards and alerts to shorten time-to-detection.
+- Standardized build/release practices across services for faster, safer iteration.

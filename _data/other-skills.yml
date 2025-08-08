@@ -1,15 +1,23 @@
-- name: Microsoft Word, PowerPoint, Excel
-  percentage: 100
+- name: Docker
+  percentage: 85
+  color: info
+
+- name: Git & GitHub
+  percentage: 95
+  color: secondary
+
+- name: CI/CD (GitHub Actions)
+  percentage: 80
+  color: success
+
+- name: Linux
+  percentage: 85
   color: danger
 
-- name: CST Studio
+- name: SQL
   percentage: 70
   color: secondary
 
-- name: Adobe Premiere Pro
+- name: Cloud (AWS/GCP)
   percentage: 60
-  color: success
-
-- name: iMovie
-  percentage: 100
   color: info

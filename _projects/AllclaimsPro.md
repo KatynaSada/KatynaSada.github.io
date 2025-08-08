@@ -7,7 +7,7 @@ date: 2025-07-01
 ---
 # Allclaims Pro – AI Microservices Platform
 
-I contribute to a production system of AI-powered microservices that assist claims intelligence workflows.
+I built and operate a production system of AI-powered microservices that assist claims intelligence workflows.
 
 Highlights
 - Designed, implemented, and maintained backend APIs and data processing services using FastAPI and Python.

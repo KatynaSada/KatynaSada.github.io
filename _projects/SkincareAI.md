@@ -1,6 +1,7 @@
 ---
 name: SkincareAI
 tools: [Python]
+category: Education
 image:
 description: Educational app that analyzes facial images and lifestyle details to suggest personalized skincare routines.
 date: 2024-06-01

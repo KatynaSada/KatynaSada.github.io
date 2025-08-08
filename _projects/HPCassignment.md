@@ -1,6 +1,7 @@
 ---
 name: HPC assignment
 tools: [AWK, Bash]
+category: Education
 image:
 description: Parallel approach for RNA-Seq pipeline to analyze samples of Bladder Cancer
 date: 2021-05-01

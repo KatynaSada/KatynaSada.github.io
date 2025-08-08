@@ -1,6 +1,7 @@
 ---
 name: Urinary Biomarkers
 tools: [Python]
+category: Education
 image: /assets/pdac.jpg
 description: Simple Python tutorial to validate a biomarker panel for earlier detection of PDAC in urine.
 date: 2020-11-01

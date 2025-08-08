@@ -1,6 +1,7 @@
 ---
 name: Optimal Decision Trees (ODT)
 tools: [R]
+category: Package
 image:
 description: R package built with my team based on the algorithm described in the paper “Precision oncology, a review to assess interpretability in several explainable methods”.
 date: 2021-06-01

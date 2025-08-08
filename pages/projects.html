@@ -62,7 +62,7 @@ remote_projects: []
           {% endif %}
 
           <div class="mt-auto d-flex align-items-center justify-content-between">
-            <span class="badge {{ badge_class }}">Project</span>
+            <span class="badge {{ badge_class }}">{{ p.category | default: 'Project' }}</span>
             <a class="btn btn-primary" href="{{ p.url }}">View project</a>
           </div>
         </div>

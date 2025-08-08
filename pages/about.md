@@ -9,9 +9,11 @@ weight: 1
 
 Hi, I'm **{{ site.author.name }}** :wave:
 
-I'm a PhD candidate in Artificial Intelligence for Cancer Research at Tecnun, Universidad de Navarra. I specialize in data analytics, high‑performance computing, and modern machine/deep learning. My work bridges research and real-world impact—designing robust models and systems that aim to improve people's health and quality of life.
+I’m a PhD candidate in Artificial Intelligence for Cancer Research at Tecnun, Universidad de Navarra. I work on data analytics, high‑performance computing, and modern machine/deep learning. I care about building things people can actually use—especially when they help patients and teams make clearer decisions.
 
-Previously, after completing a BSE in Biomedical Engineering, I pursued an MSc in Biomedical Data Analytics, where I strengthened my foundations in bioinformatics and scalable computing. Today, I split my time between advancing research projects and building applied AI solutions.
+Before my PhD, I studied Biomedical Engineering (BSE) and completed an MSc in Biomedical Data Analytics, where I focused on bioinformatics and scalable computing.
+
+Day to day, I design and deploy ML models, run analyses, and build data pipelines that scale. I try to make results easy to understand and explain. I split my time between research and applied work, usually with interdisciplinary teams. When a topic grabs my attention, I go deep, take notes, and share what I learn.
 
 <div class="row">
 {% include about/skills.html title="AI/ML Skills" source=site.data.ai-ml-skills %}

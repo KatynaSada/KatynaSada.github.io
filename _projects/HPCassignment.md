@@ -298,4 +298,4 @@ cd /home/ingbio/Data/HPC/Software
 #####			 --useVBOpt \
 #####			 --validateMappings
 ```
-**Authors**: Katyna Sada, Cristina Tobias, Teresa Pardo, Tomás Muñoz
+**Authors**: Katyna Sada, Cristina Tobias, Teresa Pardo, Tomás Muñoz, Joseba Sancho 

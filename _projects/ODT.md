@@ -12,4 +12,4 @@ This project highlights my contributions exploring the ODT algorithm for persona
 - Focus: interpretable, optimization-driven treatment recommendations
 - Stack: R, optimization, clinical/omics data integration
 
-Resource: https://www.rdocumentation.org/packages/OD
+Resource: https://www.rdocumentation.org/packages/ODT/versions/1.0.0

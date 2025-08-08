@@ -9,4 +9,4 @@ date: 2024-06-01
 
 High-school outreach project: a simple AI-powered example app that analyzes facial images and lifestyle details to provide personalized skincare recommendations. Focused on explainability and responsible AI for early learners.
 
-{% include elements/button.html link="https://github.com/KatynaSada/SkincareAI" text="View pro
+{% include elements/button.html link="https://github.com/KatynaSada/SkincareAI" text="View project's code!" %}

@@ -12,4 +12,4 @@ The objective of this project was to validate a biomarker panel for earlier dete
 
 Data set: [kaggle](https://www.kaggle.com/datasets/johnjdavisiv/urinary-biomarkers-for-pancreatic-cancer)
 
-Course: [Machine Learning for Biomedical Data](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/
+Course: [Machine Learning for Biomedical Data](https://en.unav.edu/web/masters-degree-in-biomedical-engineering/study-program)

@@ -1,23 +1,55 @@
-- name: Docker
-  percentage: 85
-  color: info
-
-- name: Git & GitHub
-  percentage: 95
-  color: secondary
-
-- name: CI/CD (GitHub Actions)
-  percentage: 80
-  color: success
-
-- name: Linux
+- name: PyTorch
   percentage: 85
   color: danger
 
-- name: SQL
+- name: PyTorch Lightning
+  percentage: 75
+  color: info
+
+- name: TensorFlow
   percentage: 70
   color: secondary
 
-- name: Cloud (AWS/GCP)
-  percentage: 60
+- name: SQL
+  percentage: 75
   color: info
+
+- name: R
+  percentage: 85
+  color: success
+
+- name: Java
+  percentage: 70
+  color: secondary
+
+- name: Transformers / LLMs
+  percentage: 75
+  color: danger
+
+- name: CNNs
+  percentage: 80
+  color: info
+
+- name: Autoencoders
+  percentage: 75
+  color: secondary
+
+- name: Explainable AI (XAI)
+  percentage: 80
+  color: success
+
+- name: SLURM
+  percentage: 70
+  color: secondary
+
+- name: Linux (Ubuntu)
+  percentage: 85
+  color: info
+
+- name: AWS
+  percentage: 60
+  color: secondary
+
+- name: Git / Weights & Biases
+  percentage: 80
+  color: success

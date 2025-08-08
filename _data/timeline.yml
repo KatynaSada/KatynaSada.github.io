@@ -1,24 +1,34 @@
-- title: AI Engineer, Allclaims Pro
-  from: 2024
+- title: Artificial Intelligence Engineer, Allclaims Pro Public Adjusting
+  from: 2025
   to: present
-  description: Building production-grade AI microservices (privacy-safe summary).
+  description: Developing LLM-based tools with prompt engineering and RAG workflows; integrating solutions to enhance decision-making and business processes.
 
-- title: Visiting PhD Student, Columbia University Irving Medical Center – Rabadan Lab
+- title: Visiting Researcher, Columbia University Irving Medical Center – Rabadan Lab
   from: 2023
   to: 2024
-  description: Research in AI for cancer and computational biology.
+  description: Preprocessed and normalized biomedical datasets; implemented ML models to predict drug response for patient-derived cells.
 
-- title: PhD in Artificial Intelligence for Cancer Research, Tecnun Universidad de Navarra
+- title: Postgraduate Researcher / PhD Candidate, TECNUN – University of Navarre
   from: 2021
+  to: 2025
+  description: Built and fine-tuned ML models for treatment response prediction; Teaching Assistant in Data Analytics, HPC, Bioinformatics, and NGS.
+
+- title: Marketing Advisor (Seasonal), Samaika (Family Startup)
+  from: 2017
   to: present
+  description: Directed brand development and sales strategies to boost market presence.
+
+- title: PhD in Applied Engineering – Artificial Intelligence, TECNUN – University of Navarre
+  from: 2021
+  to: 2025
   description:
 
-- title: MSc in Biomedical Data Analytics, Tecnun Universidad de Navarra
+- title: MSc in Data Analytics, TECNUN – University of Navarre
   from: 2020
   to: 2021
   description: Machine learning, data science, image processing techniques, high-performance computing, bioinformatics, next-generation sequencing, operations management
 
-- title: BSE in Biomedical Engineering, Tecnun Universidad de Navarra
+- title: BSE in Biomedical Engineering, TECNUN – University of Navarre
   from: 2016
   to: 2020
   description:

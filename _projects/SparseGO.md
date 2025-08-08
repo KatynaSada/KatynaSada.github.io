@@ -2,6 +2,7 @@
 name: SparseGO
 tools: [Python, PyTorch]
 category: Research
+domain: Methods/Explainable AI
 image:
 description: Sparse gene ontology-informed deep learning for drug response prediction.
 date: 2023-08-24

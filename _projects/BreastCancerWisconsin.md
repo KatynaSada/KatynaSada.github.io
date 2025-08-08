@@ -3,6 +3,7 @@ date: 2019-01-01
 name: Breast Cancer Wisconsin
 tools: [R]
 category: Education
+domain: Healthcare/Clinical
 image: https://storage.googleapis.com/kaggle-datasets-images/180/384/3da2510581f9d3b902307ff8d06fe327/dataset-card.jpg
 description: The goal of this project was to develop an algorithm that correctly predicts whether a breast cancer cell sample is benign or malignant using Kaggle's Breast Cancer Wisconsin dataset.
 ---

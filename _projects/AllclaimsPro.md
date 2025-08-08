@@ -2,6 +2,7 @@
 name: Allclaims Pro – AI Microservices Platform
 tools: [Python, RAG, Prompting, FastAPI]
 category: AI tools
+domain: AI/ML Systems
 image:
 description: Building and operating production-grade AI microservices for claims intelligence.
 date: 2025-07-01

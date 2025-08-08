@@ -2,6 +2,7 @@
 name: Arduino Hand Therapy
 tools: [Processing, Arduino (C/C++)]
 category: Education
+domain: Education/Outreach
 image: /assets/arduino.jpg
 description: Arduino-based user-friendly neurorehabilitation system for patients with hand dysfunction.
 date: 2019-06-01

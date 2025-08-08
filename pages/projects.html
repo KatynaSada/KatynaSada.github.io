@@ -12,6 +12,7 @@ remote_projects: []
   {% for p in projects %}
     {% assign icon = "fas fa-project-diagram" %}
     {% assign badge_class = "badge-secondary" %}
+    {% assign domain_badge_class = "badge-info" %}
     {% if p.name %}
       {% assign n = p.name | downcase %}
       {% if n contains "arduino" %}
@@ -35,6 +36,21 @@ remote_projects: []
       {% elsif n contains "skincare" %}
         {% assign icon = "fas fa-magic" %}
         {% assign badge_class = "badge-secondary" %}
+      {% endif %}
+    {% endif %}
+
+    {% if p.domain %}
+      {% assign d = p.domain | downcase %}
+      {% if d contains "health" or d contains "clinic" %}
+        {% assign domain_badge_class = "badge-success" %}
+      {% elsif d contains "ai/ml" or d contains "systems" or d contains "platform" %}
+        {% assign domain_badge_class = "badge-primary" %}
+      {% elsif d contains "method" or d contains "explain" %}
+        {% assign domain_badge_class = "badge-warning" %}
+      {% elsif d contains "education" or d contains "outreach" or d contains "course" %}
+        {% assign domain_badge_class = "badge-info" %}
+      {% else %}
+        {% assign domain_badge_class = "badge-info" %}
       {% endif %}
     {% endif %}
 
@@ -62,8 +78,13 @@ remote_projects: []
           {% endif %}
 
           <div class="mt-auto d-flex align-items-center justify-content-between">
-            <span class="badge {{ badge_class }}">{{ p.category | default: 'Project' }}</span>
-            <a class="btn btn-primary" href="{{ p.url }}">View project</a>
+            <div>
+              <span class="badge {{ badge_class }} mr-1">{{ p.category | default: 'Project' }}</span>
+              {% if p.domain %}
+                <span class="badge {{ domain_badge_class }}">{{ p.domain }}</span>
+              {% endif %}
+            </div>
+            <a class="btn btn-sm btn-secondary" href="{{ p.url }}">View project</a>
           </div>
         </div>
       </div>

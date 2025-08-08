@@ -20,7 +20,4 @@ weight: 4
 - TECNUN — Marketing Team
   - Led info sessions, meetings, and guided tours for prospective students.
 - ASPACE Gipuzkoa — Volunteer
-  - Assisted people with cerebral palsy.
-  {% include elements/button.html link="https://www.aspacegi.org/" text="Visit site" %}
-- Basketball Federation of Gipuzkoa — TECNUN Team
-  - Team member.
+  - Assisted people with cereb

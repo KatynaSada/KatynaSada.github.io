@@ -1,5 +1,5 @@
 - name: Python
-  percentage: 80
+  percentage: 85
   color: info
 
 - name: R
@@ -7,9 +7,13 @@
   color: success
 
 - name: Java
-  percentage: 85
+  percentage: 70
   color: secondary
 
 - name: Matlab
   percentage: 90
   color: danger
+
+- name: SQL
+  percentage: 75
+  color: info

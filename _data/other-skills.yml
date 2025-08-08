@@ -1,27 +1,19 @@
-- name: SQL
-  percentage: 75
-  color: info
-
-- name: R
-  percentage: 85
+- name: "Git"
+  percentage: 80
   color: success
 
-- name: Java
-  percentage: 70
-  color: secondary
+- name: "Weights & Biases"
+  percentage: 90
+  color: info
 
 - name: Linux (Ubuntu)
-  percentage: 85
-  color: info
+  percentage: 80
+  color: warning
 
 - name: SLURM
   percentage: 70
-  color: secondary
+  color: danger
 
 - name: AWS
-  percentage: 60
+  percentage: 50
   color: secondary
-
-- name: "Git / Weights & Biases"
-  percentage: 80
-  color: success

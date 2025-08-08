@@ -1,21 +1,21 @@
 - name: PyTorch
   percentage: 85
   color: danger
-- name: Transformers / LLMs
-  percentage: 80
-  color: info
-- name: CNNs
-  percentage: 80
-  color: secondary
-- name: Autoencoders
-  percentage: 75
-  color: secondary
-- name: Explainable AI (XAI)
-  percentage: 80
-  color: success
-- name: PyTorch Lightning
-  percentage: 70
-  color: info
 - name: TensorFlow
   percentage: 65
   color: secondary
+- name: DNNs
+  percentage: 95
+  color: info
+- name: CNNs
+  percentage: 70
+  color: success
+- name: Autoencoders
+  percentage: 70
+  color: warning
+- name: Transformers / LLMs
+  percentage: 55
+  color: primary
+- name: Explainable AI (XAI)
+  percentage: 70
+  color: dark

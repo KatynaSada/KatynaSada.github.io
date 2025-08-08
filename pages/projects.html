@@ -17,25 +17,34 @@ remote_projects: []
       {% assign n = p.name | downcase %}
       {% if n contains "arduino" %}
         {% assign icon = "fas fa-microchip" %}
-        {% assign badge_class = "badge-warning" %}
       {% elsif n contains "dna" or n contains "seq" %}
         {% assign icon = "fas fa-dna" %}
-        {% assign badge_class = "badge-info" %}
       {% elsif n contains "urinary" or n contains "biomarker" %}
         {% assign icon = "fas fa-vial" %}
-        {% assign badge_class = "badge-success" %}
       {% elsif n contains "sparsego" or n contains "drug" %}
         {% assign icon = "fas fa-prescription-bottle-alt" %}
-        {% assign badge_class = "badge-primary" %}
       {% elsif n contains "optimal decision trees" or n contains "odt" %}
         {% assign icon = "fas fa-sitemap" %}
-        {% assign badge_class = "badge-dark" %}
       {% elsif n contains "allclaims" or n contains "claims" %}
         {% assign icon = "fas fa-robot" %}
-        {% assign badge_class = "badge-primary" %}
       {% elsif n contains "skincare" %}
         {% assign icon = "fas fa-magic" %}
-        {% assign badge_class = "badge-secondary" %}
+      {% endif %}
+    {% endif %}
+
+    {%- comment -%} Consistent, non-gray colors by category {%- endcomment -%}
+    {% if p.category %}
+      {% assign c = p.category | downcase %}
+      {% if c contains "education" %}
+        {% assign badge_class = "badge-info" %}
+      {% elsif c contains "research" %}
+        {% assign badge_class = "badge-primary" %}
+      {% elsif c contains "package" %}
+        {% assign badge_class = "badge-success" %}
+      {% elsif c contains "ai tool" or c == "ai tools" %}
+        {% assign badge_class = "badge-warning" %}
+      {% else %}
+        {% assign badge_class = "badge-primary" %}
       {% endif %}
     {% endif %}
 
@@ -49,8 +58,10 @@ remote_projects: []
         {% assign domain_badge_class = "badge-warning" %}
       {% elsif d contains "education" or d contains "outreach" or d contains "course" %}
         {% assign domain_badge_class = "badge-info" %}
+      {% elsif d contains "compute" or d contains "hpc" %}
+        {% assign domain_badge_class = "badge-danger" %}
       {% else %}
-        {% assign domain_badge_class = "badge-info" %}
+        {% assign domain_badge_class = "badge-primary" %}
       {% endif %}
     {% endif %}
 

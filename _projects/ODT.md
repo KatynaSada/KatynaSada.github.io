@@ -2,14 +2,14 @@
 name: Optimal Decision Trees (ODT)
 tools: [R]
 image:
-description: R package implementing an optimization-based decision tree for personalized treatment recommendations.
+description: R package built with my team based on the algorithm described in the paper “Precision oncology, a review to assess interpretability in several explainable methods”.
 date: 2021-06-01
 ---
 # Optimal Decision Trees (ODT)
 
-This project highlights my contributions exploring the ODT algorithm for personalized medicine. ODT builds an optimal decision tree by solving an optimization problem at each split, assigning treatments that optimize a chosen sensitivity measure while respecting group size constraints. The method leverages genomic/mutational and drug sensitivity data to recommend robust, individualized therapies.
+This package was built with my team based on the algorithm described in the paper “Precision oncology, a review to assess interpretability in several explainable methods.” ODT builds an optimal decision tree by solving an optimization problem at each split, assigning treatments that optimize a chosen sensitivity measure while respecting group size constraints. The method leverages clinical/omics and drug sensitivity data to recommend robust, individualized therapies.
 
 - Focus: interpretable, optimization-driven treatment recommendations
 - Stack: R, optimization, clinical/omics data integration
 
-Resource: https://www.rdocumentation.org/packages/ODT/versions/1.0.0
+{% include elements/button.html link="https://www.rdocumentation.org/packages/ODT/versions/1.0.0" text="ODT on RDocumentation" %}
